@@ -1,0 +1,24 @@
+{
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "Learning PERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohlsengrace/react-website.git"
+  },
+  "author": "Grace Ohlsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohlsengrace/react-website/issues"
+  },
+  "homepage": "https://github.com/ohlsengrace/react-website#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  }
+}
